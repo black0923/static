@@ -7,9 +7,10 @@
 ## 查看
 https://cdn.jsdelivr.net/gh/black0923/static@master/
 ## 引用
-https://raw.githubusercontent.com/black0923/static/main/资源路径
 
 ```text
+https://raw.githubusercontent.com/black0923/static/main/资源路径
+
 例如：![生气](https://raw.githubusercontent.com/black0923/static/main/images/Emoji/罗小黑战纪/生气.gif)
 ```
 
