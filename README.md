@@ -4,6 +4,9 @@
 
 # cdn
 
+## 查看
+https://cdn.jsdelivr.net/gh/black0923/static@master/
+## 引用
 https://raw.githubusercontent.com/black0923/static/main/资源路径
 
 ```text
